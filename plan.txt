@@ -1,0 +1,4 @@
+---------> For users  <----------
+1.Register (name,email(varified),password,age,gender)
+2.Login (google,github,email)
+3.

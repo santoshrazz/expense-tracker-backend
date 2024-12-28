@@ -1,4 +1,8 @@
 ---------> For users  <----------
 1.Register (name,email(varified),password,age,gender)
 2.Login (google,github,email)
-3.
+3.Make other's table like ( teachers, courses, and others )
+4.Make teachers login and signup system and dashboard
+5.Make courses upload and stream routes
+6.Integreat payment gateway for students which can 
+7.Handle validation while upload and streaming
